@@ -21,7 +21,7 @@ Add to your enviroment variables a new one called *API_CTAN* with the value retu
 <table>
   <tr>
     <td align="center"><a href="https://github.com/RubenZx"><img src="https://avatars3.githubusercontent.com/u/36533775?v=4" width="100px;" alt="Rubén"/><br /><sub><b>Rubén</b></sub></a><br /><a href="https://github.com/krosben/api-ctan/commits?author=RubenZx" title="Code">💻</a> <a href="https://github.com/krosben/api-ctan/commits?author=RubenZx" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://krosf.com"><img src="https://avatars1.githubusercontent.com/u/24454660?v=4" width="100px;" alt="Rodrigo Sanabria"/><br /><sub><b>Rodrigo Sanabria</b></sub></a><br /><a href="https://github.com/krosben/api-ctan/commits?author=KROSF" title="Code">💻</a></td>
+    <td align="center"><a href="https://krosf.com"><img src="https://avatars1.githubusercontent.com/u/24454660?v=4" width="100px;" alt="Rodrigo Sanabria"/><br /><sub><b>Rodrigo Sanabria</b></sub></a><br /><a href="https://github.com/krosben/api-ctan/commits?author=KROSF" title="Code">💻</a> <a href="#tool-KROSF" title="Tools">🔧</a></td>
   </tr>
 </table>
 
