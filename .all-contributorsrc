@@ -1,0 +1,24 @@
+{
+  "projectName": "api-ctan",
+  "projectOwner": "krosben",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "gitmoji",
+  "contributors": [
+    {
+      "login": "RubenZx",
+      "name": "Rubén",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/36533775?v=4",
+      "profile": "https://github.com/RubenZx",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
