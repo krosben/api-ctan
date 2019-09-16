@@ -1,5 +1,5 @@
+# API CTAN [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 ## Development
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 Clone the repo into your local.
 
 Run `pipenv install`
@@ -13,8 +13,6 @@ Add to your enviroment variables a new one called *API_CTAN* with the value retu
 * [python3.7.4](https://docs.python.org/3/)
 
 ## Contributors
-* [RubenZx](https://github.com/RubenZx)
-* [krosf](https://github.com/krosf)
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
