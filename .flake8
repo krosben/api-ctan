@@ -1,4 +1,4 @@
 [flake8]
-exclude = .git,__pycache__,consorcio/settings.py
+exclude = .git,__pycache__,api_ctan/settings.py
 max-complexity = 10
 max-line-length = 88
