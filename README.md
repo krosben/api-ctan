@@ -20,7 +20,7 @@ Add to your enviroment variables a new one called *API_CTAN* with the value retu
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/RubenZx"><img src="https://avatars3.githubusercontent.com/u/36533775?v=4" width="100px;" alt="Rubén"/><br /><sub><b>Rubén</b></sub></a><br /><a href="https://github.com/krosben/api-ctan/commits?author=RubenZx" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/RubenZx"><img src="https://avatars3.githubusercontent.com/u/36533775?v=4" width="100px;" alt="Rubén"/><br /><sub><b>Rubén</b></sub></a><br /><a href="https://github.com/krosben/api-ctan/commits?author=RubenZx" title="Code">💻</a> <a href="https://github.com/krosben/api-ctan/commits?author=RubenZx" title="Documentation">📖</a></td>
   </tr>
 </table>
 
